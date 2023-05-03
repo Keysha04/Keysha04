@@ -2,7 +2,7 @@
 - 👀 I’m interested in biomedical engineering, robotics among other things
 - 🌱 I’m currently learning programming and biomedical engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/keysha-urgel-96777921a/
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/keysha-urgel-96777921a/ or email: keybent4@gmail.com
 
 <!---
 Keysha04/Keysha04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
