@@ -4,18 +4,17 @@
 - 📚 I'm studying at Universitat Pompeu Fabra
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/keysha-urgel-96777921a/ or email: keysha.urgel01@estudiant.upf.edu
 
-In this repository you can find information about me, 
-The project that I am going to introduce is a TFG made by Jaume Puig in 2021 named: “Engineering Escherichia coli for survival in Outer Space conditions. 
-Enhancing bacterial resistance to extreme levels of radiation, temperature, and pressure” [1]
-
-
-
+In this repository you can find information about me and about the project that I've been working on with another teammate.
+The inspiration of this project has always been to help as many people as possible with a single project. In this case, focusing on blind people because since the cane they normally use most of the times isn't enough. Some questions wanted to be solved with this project were: How can blind people avoid obstacles that are at a certain height and cannot be detected with their cane? If they're at a restaurant and they want food... How can they read the menu? or even worst if they need to sign a contract... How can they do it without reading it by themselves first? So the solution to all this questions was this project that  is able to make blind people "see" through their ears.
+This project is divided into different parts but the one I have focused on is text recognition and lecture out loud of the text [1,2], to do so, I searched for more information on the meaning and use of text recognition to take a look at analyses, comparisons and contrasts of technical challenges as well as different methods and research performance on text detection [3]. To be able to open the code and run it you will need to have the following libraries: cv2, pytesseract, gTTS, playsound, pyttsx3 by typing "pip install (name of the library)" in the terminal of your computer.
 
 
 **BIBLIOGRAPHY**
 
-[1] Puig Costa-Jussà, J. (2021). Engineering Escherichia coli for survival in Outer Space conditions: Enhancing bacterial resistance to extreme levels of radiation, temperature, and pressure.
-http://hdl.handle.net/10230/48247
+[1] https://www.youtube.com/watch?v=6DjFscX4I_c&t=1439s
+[2] https://www.youtube.com/watch?v=t4c-WkLWH9I
+[3] Ye, Q., & Doermann, D. (2014). Text detection and recognition in imagery: A survey. IEEE transactions on pattern analysis and machine intelligence, 37(7), 1480-1500.
+DOI: 10.1109/TPAMI.2014.2366765
 
 **Author contact**
 Keysha Urgel
