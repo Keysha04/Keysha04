@@ -9,7 +9,7 @@ The inspiration of this project has always been to help as many people as possib
 This project is divided into different parts but the one I have focused on is text recognition and lecture out loud of the text [1,2], to do so, I searched for more information on the meaning and use of text recognition to take a look at analyses, comparisons and contrasts of technical challenges as well as different methods and research performance on text detection [3]. To be able to open the code and run it you will need to have the following libraries: cv2, pytesseract, gTTS, playsound, pyttsx3 by typing "pip install (name of the library)" in the terminal of your computer.
 
 ![image](https://github.com/Keysha04/Keysha04/assets/132402091/b5ca260c-167b-45e6-9bee-6ed38be61b67)
-![image](https://github.com/Keysha04/Keysha04/assets/132402091/7b9247b2-3772-488c-acb6-4ca7dda42d81)
+![image](https://github.com/Keysha04/Keysha04/assets/132402091/2804ca00-e7fb-4813-a4e9-cadb8aa8c9e1)
 ![image](https://github.com/Keysha04/Keysha04/assets/132402091/e6f7df5d-dbb3-41c0-b5f2-93fac10e7bad)
 
 
