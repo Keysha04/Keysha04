@@ -16,9 +16,9 @@ This project is divided into different parts but the one I have focused on is te
 
 **BIBLIOGRAPHY**
 
-[1] https://www.youtube.com/watch?v=6DjFscX4I_c&t=1439s
+[1] Murtaza's Workshop - Robotics and AI (2020, April 23). Text Detection with OpenCV in Python | OCR using Tesseract (2020) [Video]. Youtube. https://www.youtube.com/watch?v=6DjFscX4I_c&t=1439s
 
-[2] https://www.youtube.com/watch?v=t4c-WkLWH9I
+[2] AK Python (2021, June 22). OpenCV project: Text detection using Webcam in Python ( 20 lines ) [Video]. YouTube. https://www.youtube.com/watch?v=t4c-WkLWH9I
 
 [3] Ye, Q., & Doermann, D. (2014). Text detection and recognition in imagery: A survey. IEEE transactions on pattern analysis and machine intelligence, 37(7), 1480-1500.
 DOI: 10.1109/TPAMI.2014.2366765
